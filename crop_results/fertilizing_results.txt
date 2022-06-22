@@ -1,0 +1,30 @@
+
+#potassium_magnesium
+at the planting, 
+made a blueberry[gate.e..b..bluecrop] flower and give_berries, which dried out with the branch (prob. due to heat).
+all other blueberries didn't flower.
+
+a lingonberry grew better and developped flovers (gate.e..l..red_pearl2), if 1 tbs of potassium_magnesium was added at the planting.
+after planting,a lingonberry [pond.E1..red_pearl1] close to 1 tsp. of PM grew the fastest. it died due to uprooting.
++for blu,
++for lng,?for crn
+
+
+
+#cutting_roots #transplanting
+a blueberry[pond.E1..nortland] was transplanted twice, half its roots were severed. it grew better than its "normal" neighbour (~.reka).
+
+#transplanting
+a gooseberry (gate.goose.yantarniy) was transplanted, and grew very well with a good crop.
+
+#no_fertiliser
+at the planting time = best results for lingonberries(pond.E1..red_pearl)
+
+#coffee_grounds
+at the planting,
+didn't make a lingonberry grow well (gate.e..l..red_pearl1), as opposed to the other one (...red_pearl2)
+
+#diammofoska
+at the planting,
+a lingonberry grew better and developped flovers (gate.e..l..red_pearl2) is OK, 
+but probably because of other reasons (see "gate.e..l..red_pearl2")

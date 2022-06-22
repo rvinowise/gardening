@@ -1,0 +1,39 @@
+default = @OPEN
+@GH = greenhouse_only
+@AC = auchan cheap
+@OPEN = no greenhouse
+@HYB = hybrid
+
+###auchan cheap
+
+
+#aubergines/egg-plants
++$Черный_красавец+$Арап
+«Поиск» Черный опал
+-Длинный_фиолетовый
+
+#tomatoes
+$Бычье сердце (non-determinant)
+
+
+##not_so_cheap_but_cheaper than OBI
+
+#hot_pepper
++$Бараний_рог
++$Клюв_сокола
+#tomatoes«Агроуспех» Черный принц средний
+###OBI
+
+#tomatoes
+$Малиновый гигант
+$Сибирский скороспелый (determinant)СеДеК Янтарный 530 ПОИСК Огородное изобилие Белый налив 241
+
+
+#aubergines
+$Длинный Фиолетовый
+
+
+###LACKING
+
+#daikon
+
