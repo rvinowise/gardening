@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="shops" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1646969403124"><hook NAME="MapStyle" zoom="1.213">
+<node TEXT="shops" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1655863138889"><hook NAME="MapStyle" zoom="1.213">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -142,28 +142,152 @@
 <node TEXT="icons" ID="ID_143750967" CREATED="1632698164973" MODIFIED="1632698166792"/>
 <node TEXT="abbreviations" ID="ID_57577033" CREATED="1632698169568" MODIFIED="1632698172983"/>
 </node>
-<node TEXT="shops" POSITION="right" ID="ID_1998008425" CREATED="1646982921575" MODIFIED="1646982923803">
-<node TEXT="seeds" ID="ID_460058011" CREATED="1655856917960" MODIFIED="1655856921419">
-<node TEXT="https://1semena.ru/" ID="ID_969483037" CREATED="1646983102833" MODIFIED="1646983107743" LINK="https://1semena.ru/">
-<node TEXT="close to metro" ID="ID_1660781111" CREATED="1646983105054" MODIFIED="1646983111817">
+<node TEXT="plants" POSITION="right" ID="ID_321339130" CREATED="1655863143069" MODIFIED="1655863729683">
+<node TEXT="https://price.pitomnik-korni.ru/retail/plodovye.pdf" ID="ID_1463379599" CREATED="1655863729896" MODIFIED="1655863735880" LINK="https://price.pitomnik-korni.ru/retail/plodovye.pdf">
+<node TEXT="cheap 2yo plants" ID="ID_915051103" CREATED="1655863736981" MODIFIED="1655863754748">
 <icon BUILTIN="good"/>
 </node>
-</node>
-<node TEXT="https://centrsadovoda.ru/shops.html" ID="ID_1928536700" CREATED="1646969534432" MODIFIED="1646969545091" LINK="https://centrsadovoda.ru/shops.html">
-<node TEXT="no delivery" ID="ID_1524208818" CREATED="1646969545510" MODIFIED="1646969548319"/>
-<node TEXT="close to metro" ID="ID_1579953932" CREATED="1646969549753" MODIFIED="1646969559630">
-<icon BUILTIN="good"/>
-</node>
-<node TEXT="long drive" ID="ID_104494758" CREATED="1646969560287" MODIFIED="1646969567620">
+<node TEXT="far" ID="ID_93566417" CREATED="1655863758846" MODIFIED="1655863762445">
 <icon BUILTIN="bad"/>
 </node>
-<node TEXT="a big shopping room" ID="ID_1194716877" CREATED="1646969903314" MODIFIED="1646969917136">
+<node TEXT="no needed plants" ID="ID_448526789" CREATED="1656221085018" MODIFIED="1656221093619">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="no site" ID="ID_1167241973" CREATED="1656222623582" MODIFIED="1656222637098">
+<icon BUILTIN="bad"/>
+<node TEXT="https://yandex.ru/maps/org/yakovlevskiy_plodovy_sad/48091936434/?ll=37.460400%2C54.623764&amp;z=9" ID="ID_1764765541" CREATED="1655863922149" MODIFIED="1655863927568" LINK="https://yandex.ru/maps/org/yakovlevskiy_plodovy_sad/48091936434/?ll=37.460400%2C54.623764&amp;z=9">
+<node TEXT="no site" ID="ID_336860932" CREATED="1655865955050" MODIFIED="1655865962245">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="controversial reviews" LOCALIZED_STYLE_REF="default" ID="ID_901704199" CREATED="1655863936107" MODIFIED="1655866491152" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="question"/>
+</node>
+</node>
+<node TEXT="https://yandex.ru/maps/org/floks/55710524672" ID="ID_800974152" CREATED="1655865937598" MODIFIED="1655865954088" LINK="https://yandex.ru/maps/org/floks/55710524672/?from=mapframe&amp;ll=37.481356%2C54.917150&amp;mode=search&amp;sctx=ZAAAAAgBEAAaKAoSCfIJ2Xkbx0JAETPcgM8PZ0tAEhIJg%2FsBDwwgjD8RS5S9pZwvhj8iBgABAgMEBSgKOABAAUgBYityZWFycj1zY2hlbWVfTG9jYWwvR2VvL0VuYWJsZUJlYXV0eUZpbHRlcj0xagJydZ0BzcxMPaABAKgBAL0BySlAyMIBOcX1jeYFysyv7KIE%2BKSo9sQB%2FJCtmOcD9%2Bj3rPgEgMrsxM8BseH0hJgB%2F%2Fr%2BqgSCueCSaLHv6YusAuoBAPIBAPgBAIICGdGB0LDQtNC%2B0LLRi9C5INGG0LXQvdGC0YCKAgkxODQxMDY0ODCSAgCaAgxkZXNrdG9wLW1hcHM%3D&amp;sll=37.481356%2C54.917150&amp;sspn=0.066773%2C0.022838&amp;text=%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80&amp;z=13.92">
+<node TEXT="no site" ID="ID_883226387" CREATED="1655865955050" MODIFIED="1655865962245">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="good reviews" ID="ID_1244487022" CREATED="1655865962566" MODIFIED="1655865965980">
 <icon BUILTIN="good"/>
 </node>
 </node>
-<node TEXT="https://magazinsemena.ru/order/" ID="ID_1878962790" CREATED="1646970026357" MODIFIED="1646970029592" LINK="https://magazinsemena.ru/order/">
-<node TEXT="close to metro ?" ID="ID_1269821468" CREATED="1646970030430" MODIFIED="1646970057986">
+</node>
+<node TEXT="http://xn--80aam0cf1a8b.xn--p1ai/product/shelkovica-chernaya-baronessa/" ID="ID_817481280" CREATED="1656155129057" MODIFIED="1656155468716" LINK="http://xn--80aam0cf1a8b.xn--p1ai/product/shelkovica-chernaya-baronessa/">
+<node TEXT="—Ü–∞—Ä—å—Å–∞–¥" ID="ID_1407207474" CREATED="1656155472684" MODIFIED="1656221806953">
+<icon BUILTIN="box"/>
+</node>
+<node TEXT="many plants" ID="ID_372563858" CREATED="1656168037693" MODIFIED="1656168043053">
 <icon BUILTIN="good"/>
 </node>
-<node TEXT="only pick point" LOCALIZED_STYLE_REF=INDX( 	 Á$-           (   P  Ë                            ‹∏     p X    y∏     ∑
-‰Wû3◊ΩÍ¯É3◊ΩÍ¯É3◊°õ§Xû3◊ @     \0              e 0 8 0 1 2 6 9 . a u          π     p X    y∏     ŸO}tû3◊¬ÆﬁGÉ3◊¬ÆﬁGÉ3◊^D=uû3◊ @     \0              e 0 8 0 1 4 9 a . a u        ˝∏     p X    y∏     AyÔqû3◊pTzÇ3◊pTzÇ3◊">≥rû3◊ @     \0              e 0 8 0 1 7 0 7 . a u        fπ     p X    y∏     Æ≤Cƒû3◊É>öƒÇ3◊É>öƒÇ3◊•#≈û3◊ @     \0              e 0 8 0 1 8 e 7 . a u       aª     p X    y∏     £SUX†3◊˜πñΩÇ3◊˜πñΩÇ3◊ù2Y†3◊ @     \0              e 0 8 0 1 b 0 8 . a u        [π     p X    y∏     MEÜªû3◊~LöÇ3◊~LöÇ3◊QFºû3◊ @     \0              e 0 8 0 1 c a 3 . a u        ¨π     p X    y∏     ¨/Ä˚û3◊b,}9É3◊b,}9É3◊uô@¸û3◊ @     \0              e 0 8 0 1 e 4 c . a u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              INDX( 	 +-           (     Ë       ◊    u 6 8         ≥ª     h X     y∏     ÿÙ	ô†3◊≥ÈDπÉ3◊≥ÈDπÉ3◊‡¨ ô†3◊ @     \0              e 0 8 0 1 b 1 d . a u h∫     h X     y∏     ò≤àèü3◊˚ÚÑ
+</node>
+<node TEXT="https://www.moscow-garden24.ru/catalog/plodovyie_kustarniki" ID="ID_257008726" CREATED="1656168023031" MODIFIED="1656168030734" LINK="https://www.moscow-garden24.ru/catalog/plodovyie_kustarniki">
+<node TEXT="relatively close" ID="ID_844347027" CREATED="1656168031093" MODIFIED="1656168037504">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="many plants" ID="ID_13322861" CREATED="1656168037693" MODIFIED="1656168043053">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="fine prices" ID="ID_1222927023" CREATED="1656168043361" MODIFIED="1656168047270">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="by distance (close -&gt; far)" ID="ID_230918464" CREATED="1656222646907" MODIFIED="1656222676252">
+<node TEXT="https://liubimii.ru/yagodnye-kustarniki/kizil/kizil-lukyanovskiy.html" ID="ID_700051166" CREATED="1655872036992" MODIFIED="1655872036992" LINK="https://liubimii.ru/yagodnye-kustarniki/kizil/kizil-lukyanovskiy.html">
+<node TEXT="fine priced big plants" ID="ID_1350851585" CREATED="1655872045033" MODIFIED="1655872065352">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="relatively far" ID="ID_1762364819" CREATED="1655872345008" MODIFIED="1655872350088">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="https://www.zpitomniki.ru/contacts/" ID="ID_328663269" CREATED="1656064987360" MODIFIED="1656064987360" LINK="https://www.zpitomniki.ru/contacts/">
+<node TEXT="–∑–∞–æ–∫—Å–∫–∏–µ –ø–∏—Ç–æ–º–Ω–∏–∫–∏" ID="ID_1838668851" CREATED="1656221808663" MODIFIED="1656221814375">
+<icon BUILTIN="box"/>
+</node>
+<node TEXT="fine price" ID="ID_1834145998" CREATED="1656064991054" MODIFIED="1656064997695">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="different plants" ID="ID_1759490831" CREATED="1656065092078" MODIFIED="1656065101034">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="far" ID="ID_124134155" CREATED="1656064998067" MODIFIED="1656065128829">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="controversial reviews" ID="ID_1713801491" CREATED="1656065003292" MODIFIED="1656065016546">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="http://pitomnikzaitsevo.ru/tseny" ID="ID_677521891" CREATED="1655866255522" MODIFIED="1655866255522" LINK="http://pitomnikzaitsevo.ru/tseny">
+<node TEXT="cheap big plants" ID="ID_860586488" CREATED="1655866258438" MODIFIED="1655866263747">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="few plants" ID="ID_467808753" CREATED="1655866461427" MODIFIED="1655866468651">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="far" ID="ID_885338514" CREATED="1655866265129" MODIFIED="1655866267080">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="need to buy" POSITION="right" ID="ID_372190360" CREATED="1655872442907" MODIFIED="1655872449815">
+<node TEXT="schizandra (limonnik)" ID="ID_1338994437" CREATED="1655872450198" MODIFIED="1655873372108"/>
+<node TEXT="cornus mas (kizil)" ID="ID_1090796633" CREATED="1655872684373" MODIFIED="1655873375352"/>
+<node TEXT="lycium barbarum (goji)" ID="ID_1498947628" CREATED="1656146399995" MODIFIED="1656149400165"/>
+<node TEXT="mulberry" ID="ID_903185595" CREATED="1656156172154" MODIFIED="1656156176831">
+<node TEXT="black" ID="ID_374185869" CREATED="1656166922773" MODIFIED="1656166925103"/>
+</node>
+<node TEXT="viburnum (calina)" ID="ID_500166907" CREATED="1656167757604" MODIFIED="1656167764236"/>
+<node TEXT="chokeberry (aronium)" ID="ID_1984644448" CREATED="1656167890126" MODIFIED="1656167915423"/>
+</node>
+<node TEXT="apples" POSITION="right" ID="ID_428376445" CREATED="1655874510603" MODIFIED="1655874511847">
+<node TEXT="died" ID="ID_823046144" CREATED="1655874522532" MODIFIED="1655874523514">
+<node TEXT="mel&apos;ba" ID="ID_1159737377" CREATED="1655874524411" MODIFIED="1655874551604"/>
+<node TEXT="loba(lobo?)" ID="ID_722381242" CREATED="1655874537826" MODIFIED="1655874780996"/>
+<node TEXT="bogatyr&apos;" ID="ID_67461871" CREATED="1655874544669" MODIFIED="1655874548014"/>
+<node TEXT="trifel" ID="ID_938569899" CREATED="1655874548683" MODIFIED="1655874549865"/>
+<node TEXT="shtreifling" ID="ID_1996984635" CREATED="1655874700447" MODIFIED="1655874704224">
+<icon BUILTIN="question"/>
+</node>
+</node>
+<node TEXT="we have" ID="ID_1567506410" CREATED="1655874561508" MODIFIED="1655874563008">
+<node TEXT="welsy" ID="ID_594316752" CREATED="1655874563279" MODIFIED="1655874564580"/>
+</node>
+<node TEXT="new varieties" ID="ID_1381641097" CREATED="1655874604385" MODIFIED="1655874687113">
+<node TEXT="shtreifling" ID="ID_1647166882" CREATED="1655874688133" MODIFIED="1655874699218">
+<node TEXT="too much water in the fruit" ID="ID_486946531" CREATED="1655874710855" MODIFIED="1655874713125">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="grows slowly" ID="ID_1682159837" CREATED="1656077405538" MODIFIED="1656077410579">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="autumn stripped" ID="ID_1911766461" CREATED="1656077411953" MODIFIED="1656077420257">
+<icon BUILTIN="punctuation/equal"/>
+</node>
+</node>
+<node TEXT="Northern Spy" ID="ID_1303061931" CREATED="1655877392576" MODIFIED="1655877412078" LINK="https://www.homefortheharvest.com/best-tasting-apples/">
+<node TEXT="complex flavour" ID="ID_971377695" CREATED="1655877394830" MODIFIED="1655877400028">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="tart" ID="ID_671991382" CREATED="1655877400338" MODIFIED="1655877633927">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="Granny Smith" ID="ID_140599507" CREATED="1655877626069" MODIFIED="1655877629320">
+<node TEXT="tart" ID="ID_1097259633" CREATED="1655877629533" MODIFIED="1655877633280">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="tart" ID="ID_340873044" CREATED="1656077071831" MODIFIED="1656077081228">
+<icon BUILTIN="good"/>
+<node TEXT="–ö–∞–Ω–¥–∏–ª—å –æ—Ä–ª–æ–≤—Å–∫–∏–π" ID="ID_35975322" CREATED="1656077081852" MODIFIED="1656077083681"/>
+</node>
+</node>
+<node TEXT="select apples with dwarf rootstocks - their roots aren&apos;t deep" ID="ID_812751096" CREATED="1655874592119" MODIFIED="1655874594198">
+<icon BUILTIN="info_circle"/>
+</node>
+</node>
+<node TEXT="cherries are dying" POSITION="right" ID="ID_1088054928" CREATED="1655874580341" MODIFIED="1655874589358"/>
+</node>
+</map>
