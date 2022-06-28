@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="shops" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1655863138889"><hook NAME="MapStyle" zoom="1.213">
+<node TEXT="shops" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1655863138889"><hook NAME="MapStyle" zoom="2.05">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -143,17 +143,6 @@
 <node TEXT="abbreviations" ID="ID_57577033" CREATED="1632698169568" MODIFIED="1632698172983"/>
 </node>
 <node TEXT="plants" POSITION="right" ID="ID_321339130" CREATED="1655863143069" MODIFIED="1655863729683">
-<node TEXT="https://price.pitomnik-korni.ru/retail/plodovye.pdf" ID="ID_1463379599" CREATED="1655863729896" MODIFIED="1655863735880" LINK="https://price.pitomnik-korni.ru/retail/plodovye.pdf">
-<node TEXT="cheap 2yo plants" ID="ID_915051103" CREATED="1655863736981" MODIFIED="1655863754748">
-<icon BUILTIN="good"/>
-</node>
-<node TEXT="far" ID="ID_93566417" CREATED="1655863758846" MODIFIED="1655863762445">
-<icon BUILTIN="bad"/>
-</node>
-<node TEXT="no needed plants" ID="ID_448526789" CREATED="1656221085018" MODIFIED="1656221093619">
-<icon BUILTIN="bad"/>
-</node>
-</node>
 <node TEXT="no site" ID="ID_1167241973" CREATED="1656222623582" MODIFIED="1656222637098">
 <icon BUILTIN="bad"/>
 <node TEXT="https://yandex.ru/maps/org/yakovlevskiy_plodovy_sad/48091936434/?ll=37.460400%2C54.623764&amp;z=9" ID="ID_1764765541" CREATED="1655863922149" MODIFIED="1655863927568" LINK="https://yandex.ru/maps/org/yakovlevskiy_plodovy_sad/48091936434/?ll=37.460400%2C54.623764&amp;z=9">
@@ -173,14 +162,6 @@
 </node>
 </node>
 </node>
-<node TEXT="http://xn--80aam0cf1a8b.xn--p1ai/product/shelkovica-chernaya-baronessa/" ID="ID_817481280" CREATED="1656155129057" MODIFIED="1656155468716" LINK="http://xn--80aam0cf1a8b.xn--p1ai/product/shelkovica-chernaya-baronessa/">
-<node TEXT="царьсад" ID="ID_1407207474" CREATED="1656155472684" MODIFIED="1656221806953">
-<icon BUILTIN="box"/>
-</node>
-<node TEXT="many plants" ID="ID_372563858" CREATED="1656168037693" MODIFIED="1656168043053">
-<icon BUILTIN="good"/>
-</node>
-</node>
 <node TEXT="https://www.moscow-garden24.ru/catalog/plodovyie_kustarniki" ID="ID_257008726" CREATED="1656168023031" MODIFIED="1656168030734" LINK="https://www.moscow-garden24.ru/catalog/plodovyie_kustarniki">
 <node TEXT="relatively close" ID="ID_844347027" CREATED="1656168031093" MODIFIED="1656168037504">
 <icon BUILTIN="good"/>
@@ -193,6 +174,29 @@
 </node>
 </node>
 <node TEXT="by distance (close -&gt; far)" ID="ID_230918464" CREATED="1656222646907" MODIFIED="1656222676252">
+<node TEXT="https://www.garantsad.ru/plodovye-kustarniki/sazhency-zhimolost-sedobnaya/sazhency-zhimolost-plodovaya-amfora.html" ID="ID_37674065" CREATED="1656304151777" MODIFIED="1656304161557" LINK="https://www.garantsad.ru/plodovye-kustarniki/sazhency-zhimolost-sedobnaya/sazhency-zhimolost-plodovaya-amfora.html">
+<node TEXT="close" ID="ID_1340823108" CREATED="1656304162547" MODIFIED="1656304165700">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="many plants" ID="ID_562492162" CREATED="1656304166947" MODIFIED="1656304171149">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="expensive" ID="ID_754624479" CREATED="1656304171638" MODIFIED="1656304182504">
+<icon BUILTIN="question"/>
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="http://xn--80aam0cf1a8b.xn--p1ai/product/shelkovica-chernaya-baronessa/" ID="ID_817481280" CREATED="1656155129057" MODIFIED="1656155468716" LINK="http://xn--80aam0cf1a8b.xn--p1ai/product/shelkovica-chernaya-baronessa/">
+<node TEXT="царьсад" ID="ID_1407207474" CREATED="1656155472684" MODIFIED="1656221806953">
+<icon BUILTIN="box"/>
+</node>
+<node TEXT="many plants" ID="ID_372563858" CREATED="1656168037693" MODIFIED="1656168043053">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="call to learn availability" ID="ID_974504991" CREATED="1656389370271" MODIFIED="1656389388269">
+<icon BUILTIN="info_circle"/>
+</node>
+</node>
 <node TEXT="https://liubimii.ru/yagodnye-kustarniki/kizil/kizil-lukyanovskiy.html" ID="ID_700051166" CREATED="1655872036992" MODIFIED="1655872036992" LINK="https://liubimii.ru/yagodnye-kustarniki/kizil/kizil-lukyanovskiy.html">
 <node TEXT="fine priced big plants" ID="ID_1350851585" CREATED="1655872045033" MODIFIED="1655872065352">
 <icon BUILTIN="good"/>
@@ -229,17 +233,28 @@
 <icon BUILTIN="bad"/>
 </node>
 </node>
+<node TEXT="https://price.pitomnik-korni.ru/retail/plodovye.pdf" ID="ID_1463379599" CREATED="1655863729896" MODIFIED="1655863735880" LINK="https://price.pitomnik-korni.ru/retail/plodovye.pdf">
+<node TEXT="cheap 2yo plants" ID="ID_915051103" CREATED="1655863736981" MODIFIED="1655863754748">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="far" ID="ID_93566417" CREATED="1655863758846" MODIFIED="1655863762445">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="no needed plants" ID="ID_448526789" CREATED="1656221085018" MODIFIED="1656221093619">
+<icon BUILTIN="bad"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="need to buy" POSITION="right" ID="ID_372190360" CREATED="1655872442907" MODIFIED="1655872449815">
 <node TEXT="schizandra (limonnik)" ID="ID_1338994437" CREATED="1655872450198" MODIFIED="1655873372108"/>
+<node TEXT="chokeberry (aronium)" ID="ID_1984644448" CREATED="1656167890126" MODIFIED="1656167915423"/>
 <node TEXT="cornus mas (kizil)" ID="ID_1090796633" CREATED="1655872684373" MODIFIED="1655873375352"/>
 <node TEXT="lycium barbarum (goji)" ID="ID_1498947628" CREATED="1656146399995" MODIFIED="1656149400165"/>
 <node TEXT="mulberry" ID="ID_903185595" CREATED="1656156172154" MODIFIED="1656156176831">
 <node TEXT="black" ID="ID_374185869" CREATED="1656166922773" MODIFIED="1656166925103"/>
 </node>
 <node TEXT="viburnum (calina)" ID="ID_500166907" CREATED="1656167757604" MODIFIED="1656167764236"/>
-<node TEXT="chokeberry (aronium)" ID="ID_1984644448" CREATED="1656167890126" MODIFIED="1656167915423"/>
 </node>
 <node TEXT="apples" POSITION="right" ID="ID_428376445" CREATED="1655874510603" MODIFIED="1655874511847">
 <node TEXT="died" ID="ID_823046144" CREATED="1655874522532" MODIFIED="1655874523514">
