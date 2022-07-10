@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="gardening" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1651371461511"><hook NAME="MapStyle" zoom="1.213">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -148,8 +148,8 @@
 <node TEXT="crop rotation" POSITION="right" ID="ID_1726957976" CREATED="1651371517996" MODIFIED="1651371539136" LINK="crop_rotation/crop_rotation.mm"/>
 <node TEXT="gardening.graphml" POSITION="right" ID="ID_1209813816" CREATED="1651371597748" MODIFIED="1651371597749" LINK="gardening.graphml"/>
 <node TEXT="companion planting" POSITION="right" ID="ID_1248138431" CREATED="1651521570765" MODIFIED="1651521583365" LINK="companion%20planting/">
-<node TEXT="companion planting" ID="ID_778310016" CREATED="1651521585903" MODIFIED="1651521595899" LINK="file:/M:/gardening/companion%20planting/companion%20planting.mm"/>
+<node TEXT="companion planting" ID="ID_778310016" CREATED="1651521585903" MODIFIED="1656853713231" LINK="companion%20planting/companion%20planting.mm"/>
 </node>
-<node TEXT="soil type" POSITION="right" ID="ID_1481777238" CREATED="1651567069781" MODIFIED="1651567080780" LINK="file:/M:/gardening/soil%20type.mm"/>
+<node TEXT="soil type" POSITION="right" ID="ID_1481777238" CREATED="1651567069781" MODIFIED="1656850047815" LINK="soil%20type.mm"/>
 </node>
 </map>
