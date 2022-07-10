@@ -186,6 +186,30 @@
 <icon BUILTIN="bad"/>
 </node>
 </node>
+<node TEXT="https://www.sadovod-yasenevo.ru/contacts/" ID="ID_1838876774" CREATED="1657443198973" MODIFIED="1657443203497" LINK="https://www.sadovod-yasenevo.ru/contacts/">
+<node TEXT="ясенево" ID="ID_1519935668" CREATED="1657443204159" MODIFIED="1657443210746">
+<icon BUILTIN="box_inscribed"/>
+</node>
+<node TEXT="few plants" ID="ID_576023970" CREATED="1657443211404" MODIFIED="1657444509167">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="https://www.sadoviy1.ru/" ID="ID_1582150988" CREATED="1657444575753" MODIFIED="1657444580902" LINK="https://www.sadoviy1.ru/">
+<node TEXT="центр №1" ID="ID_971504510" CREATED="1657444586349" MODIFIED="1657444599312">
+<icon BUILTIN="box_inscribed"/>
+</node>
+<node TEXT="few plants" ID="ID_94724615" CREATED="1657443211404" MODIFIED="1657444509167">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="http://www.agrogarden.ru/page/Jimolost.html" ID="ID_1448395493" CREATED="1657441265959" MODIFIED="1657441461424" LINK="http://www.agrogarden.ru/page/Jimolost.html">
+<node TEXT="агросад" ID="ID_1579765610" CREATED="1657441268178" MODIFIED="1657442821308">
+<icon BUILTIN="box_inscribed"/>
+</node>
+<node TEXT="not too many plants" ID="ID_368086336" CREATED="1657441462276" MODIFIED="1657441472216">
+<icon BUILTIN="bad"/>
+</node>
+</node>
 <node TEXT="http://xn--80aam0cf1a8b.xn--p1ai/product/shelkovica-chernaya-baronessa/" ID="ID_817481280" CREATED="1656155129057" MODIFIED="1656155468716" LINK="http://xn--80aam0cf1a8b.xn--p1ai/product/shelkovica-chernaya-baronessa/">
 <node TEXT="царьсад" ID="ID_1407207474" CREATED="1656155472684" MODIFIED="1656221806953">
 <icon BUILTIN="box"/>
@@ -255,8 +279,7 @@
 <node TEXT="black" ID="ID_374185869" CREATED="1656166922773" MODIFIED="1656166925103"/>
 </node>
 <node TEXT="viburnum (calina)" ID="ID_500166907" CREATED="1656167757604" MODIFIED="1656167764236"/>
-</node>
-<node TEXT="apples" POSITION="right" ID="ID_428376445" CREATED="1655874510603" MODIFIED="1655874511847">
+<node TEXT="apples" ID="ID_428376445" CREATED="1655874510603" MODIFIED="1655874511847">
 <node TEXT="died" ID="ID_823046144" CREATED="1655874522532" MODIFIED="1655874523514">
 <node TEXT="mel&apos;ba" ID="ID_1159737377" CREATED="1655874524411" MODIFIED="1655874551604"/>
 <node TEXT="loba(lobo?)" ID="ID_722381242" CREATED="1655874537826" MODIFIED="1655874780996"/>
@@ -298,9 +321,14 @@
 <icon BUILTIN="good"/>
 <node TEXT="Кандиль орловский" ID="ID_35975322" CREATED="1656077081852" MODIFIED="1656077083681"/>
 </node>
+<node TEXT="constant crop" ID="ID_892145965" CREATED="1657443557982" MODIFIED="1657443567053">
+<icon BUILTIN="good"/>
+<node TEXT="пирос" ID="ID_1756424461" CREATED="1657443567367" MODIFIED="1657443580569" LINK="https://www.sadovod-yasenevo.ru/catalog/sazhentsy/plodovye_derevya/yablonya/yablonya_piros_/"/>
+</node>
 </node>
 <node TEXT="select apples with dwarf rootstocks - their roots aren&apos;t deep" ID="ID_812751096" CREATED="1655874592119" MODIFIED="1655874594198">
 <icon BUILTIN="info_circle"/>
+</node>
 </node>
 </node>
 <node TEXT="cherries are dying" POSITION="right" ID="ID_1088054928" CREATED="1655874580341" MODIFIED="1655874589358"/>
