@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="shops" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1655863138889"><hook NAME="MapStyle" zoom="1.213">
+<node TEXT="shops" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1655863138889"><hook NAME="MapStyle" zoom="1.577">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -184,6 +184,27 @@
 <node TEXT="expensive" ID="ID_754624479" CREATED="1656304171638" MODIFIED="1656304182504">
 <icon BUILTIN="question"/>
 <icon BUILTIN="bad"/>
+<node TEXT="honeyberry is similar to Plod_sad" ID="ID_531256323" CREATED="1657620828699" MODIFIED="1657621069877">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="cornus_mas is similar to Plod_sad" ID="ID_426007753" CREATED="1657621070692" MODIFIED="1657621079679">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="fine schizandra" ID="ID_1171595353" CREATED="1657621257528" MODIFIED="1657621267354">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="old apples are expensive" ID="ID_106586745" CREATED="1657620865223" MODIFIED="1657620879434">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="aronia is more expensive than Plod_sad" ID="ID_385895748" CREATED="1657620891046" MODIFIED="1657620905273">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="no goji" ID="ID_572815059" CREATED="1657621384824" MODIFIED="1657621389679">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="no mulberry" ID="ID_1228351850" CREATED="1657621390379" MODIFIED="1657621394715">
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="https://www.sadovod-yasenevo.ru/contacts/" ID="ID_1838876774" CREATED="1657443198973" MODIFIED="1657443203497" LINK="https://www.sadovod-yasenevo.ru/contacts/">
@@ -191,6 +212,9 @@
 <icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="few plants" ID="ID_576023970" CREATED="1657443211404" MODIFIED="1657444509167">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="apples are &gt; expensive than Plod_sad" ID="ID_611085910" CREATED="1657621544224" MODIFIED="1657621580919">
 <icon BUILTIN="bad"/>
 </node>
 </node>
@@ -221,11 +245,25 @@
 <icon BUILTIN="info_circle"/>
 </node>
 </node>
+<node TEXT="https://plodovyisad.ru/yablonya-malinovka/" ID="ID_985349668" CREATED="1657511919308" MODIFIED="1657511924481" LINK="https://plodovyisad.ru/yablonya-malinovka/">
+<node TEXT="плодовый сад" ID="ID_756827142" CREATED="1657511926642" MODIFIED="1657511972456">
+<icon BUILTIN="box_inscribed"/>
+</node>
+<node TEXT="fine priced big plants" ID="ID_1493785838" CREATED="1657511975463" MODIFIED="1657511987542">
+<icon BUILTIN="good"/>
+</node>
+</node>
 <node TEXT="https://liubimii.ru/yagodnye-kustarniki/kizil/kizil-lukyanovskiy.html" ID="ID_700051166" CREATED="1655872036992" MODIFIED="1655872036992" LINK="https://liubimii.ru/yagodnye-kustarniki/kizil/kizil-lukyanovskiy.html">
+<node TEXT="любимый" ID="ID_593267786" CREATED="1657511926642" MODIFIED="1657618002815">
+<icon BUILTIN="box_inscribed"/>
+</node>
 <node TEXT="fine priced big plants" ID="ID_1350851585" CREATED="1655872045033" MODIFIED="1655872065352">
 <icon BUILTIN="good"/>
 </node>
 <node TEXT="relatively far" ID="ID_1762364819" CREATED="1655872345008" MODIFIED="1655872350088">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="only apples and cornus_mas" ID="ID_1872270019" CREATED="1657510019650" MODIFIED="1657510029815">
 <icon BUILTIN="bad"/>
 </node>
 </node>
@@ -324,7 +362,10 @@
 <node TEXT="constant crop" ID="ID_892145965" CREATED="1657443557982" MODIFIED="1657443567053">
 <icon BUILTIN="good"/>
 <node TEXT="пирос" ID="ID_1756424461" CREATED="1657443567367" MODIFIED="1657443580569" LINK="https://www.sadovod-yasenevo.ru/catalog/sazhentsy/plodovye_derevya/yablonya/yablonya_piros_/"/>
+<node TEXT="КИТАЙКА КРАСНАЯ" ID="ID_1231747900" CREATED="1657512105217" MODIFIED="1657512125118" LINK="https://plodovyisad.ru/yablonya-kitajka-krasnaya/"/>
+<node TEXT="Медуница" ID="ID_302018897" CREATED="1657512172860" MODIFIED="1657512175092"/>
 </node>
+<node TEXT="" ID="ID_1688966359" CREATED="1657512100030" MODIFIED="1657512100030"/>
 </node>
 <node TEXT="select apples with dwarf rootstocks - their roots aren&apos;t deep" ID="ID_812751096" CREATED="1655874592119" MODIFIED="1655874594198">
 <icon BUILTIN="info_circle"/>
