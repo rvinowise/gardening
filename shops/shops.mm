@@ -189,47 +189,8 @@
 <icon BUILTIN="bad"/>
 </node>
 </node>
-<node TEXT="fine schizandra" ID="ID_1171595353" CREATED="1657621257528" MODIFIED="1657621267354">
-<icon BUILTIN="good"/>
-</node>
-<node TEXT="old apples are expensive" ID="ID_106586745" CREATED="1657620865223" MODIFIED="1657620879434">
-<icon BUILTIN="bad"/>
-</node>
-<node TEXT="aronia is more expensive than Plod_sad" ID="ID_385895748" CREATED="1657620891046" MODIFIED="1657620905273">
-<icon BUILTIN="bad"/>
-</node>
-</node>
-<node TEXT="no goji" ID="ID_572815059" CREATED="1657621384824" MODIFIED="1657621389679">
-<icon BUILTIN="bad"/>
-</node>
-<node TEXT="no mulberry" ID="ID_1228351850" CREATED="1657621390379" MODIFIED="1657621394715">
-<icon BUILTIN="bad"/>
-</node>
-</node>
-<node TEXT="https://www.sadovod-yasenevo.ru/contacts/" ID="ID_1838876774" CREATED="1657443198973" MODIFIED="1657443203497" LINK="https://www.sadovod-yasenevo.ru/contacts/">
-<node TEXT="ясенево" ID="ID_1519935668" CREATED="1657443204159" MODIFIED="1657443210746">
-<icon BUILTIN="box_inscribed"/>
-</node>
-<node TEXT="few plants" ID="ID_576023970" CREATED="1657443211404" MODIFIED="1657444509167">
-<icon BUILTIN="bad"/>
-</node>
-<node TEXT="apples are &gt; expensive than Plod_sad" ID="ID_611085910" CREATED="1657621544224" MODIFIED="1657621580919">
-<icon BUILTIN="bad"/>
-</node>
-</node>
-<node TEXT="https://www.sadoviy1.ru/" ID="ID_1582150988" CREATED="1657444575753" MODIFIED="1657444580902" LINK="https://www.sadoviy1.ru/">
-<node TEXT="центр №1" ID="ID_971504510" CREATED="1657444586349" MODIFIED="1657444599312">
-<icon BUILTIN="box_inscribed"/>
-</node>
-<node TEXT="few plants" ID="ID_94724615" CREATED="1657443211404" MODIFIED="1657444509167">
-<icon BUILTIN="bad"/>
-</node>
-</node>
-<node TEXT="http://www.agrogarden.ru/page/Jimolost.html" ID="ID_1448395493" CREATED="1657441265959" MODIFIED="1657441461424" LINK="http://www.agrogarden.ru/page/Jimolost.html">
-<node TEXT="агросад" ID="ID_1579765610" CREATED="1657441268178" MODIFIED="1657442821308">
-<icon BUILTIN="box_inscribed"/>
-</node>
-<node TEXT="not too many plants" ID="ID_368086336" CREATED="1657441462276" MODIFIED="1657441472216">
+<node TEXT="http://www.agrogarden.ru/page/Yablonya_2.html" ID="ID_26507651" CREATED="1657694523849" MODIFIED="1657694527589" LINK="http://www.agrogarden.ru/page/Yablonya_2.html">
+<node TEXT="expensive apples" ID="ID_1514828424" CREATED="1657694529303" MODIFIED="1657694597741">
 <icon BUILTIN="bad"/>
 </node>
 </node>
@@ -260,12 +221,32 @@
 <icon BUILTIN="bad"/>
 </node>
 </node>
+<node TEXT="sazhency-chehov.ru" ID="ID_370674789" CREATED="1657705482680" MODIFIED="1657705497964" LINK="https://sazhency-chehov.ru/product/yablonya-zhigulevskoe/">
+<node TEXT="unclear apples" ID="ID_1083859414" CREATED="1657706233405" MODIFIED="1657706249099">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="easily accessible" ID="ID_914229356" CREATED="1657695053764" MODIFIED="1657695058491">
+<icon BUILTIN="good"/>
+</node>
+</node>
 <node TEXT="checkov nursery" ID="ID_1122191851" CREATED="1657695021573" MODIFIED="1657695026917">
 <node TEXT="small plants" ID="ID_52810535" CREATED="1657695033612" MODIFIED="1657695037118">
 <icon BUILTIN="bad"/>
 </node>
 <node TEXT="unknown assortment" ID="ID_258675830" CREATED="1657695037399" MODIFIED="1657695044910">
 <icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="https://sadovyi-mir.ru/contacts/" ID="ID_598672324" CREATED="1657708560640" MODIFIED="1657708591796" LINK="https://sadovyi-mir.ru/contacts/">
+<node TEXT="садовый мир" ID="ID_1793531551" CREATED="1657708567361" MODIFIED="1657708573088">
+<icon BUILTIN="box_inscribed"/>
+</node>
+<node TEXT="домодедово" ID="ID_888334403" CREATED="1657708573575" MODIFIED="1657708581028">
+<icon BUILTIN="place"/>
+</node>
+<node TEXT="&gt;2 y/o apples are expensive" ID="ID_1037811699" CREATED="1657708613691" MODIFIED="1657708632170">
+<icon BUILTIN="bad"/>
+<font BOLD="false"/>
 </node>
 </node>
 <node TEXT="Зеленая ул., 3, Чехов, Московская обл., 142301" ID="ID_519656277" CREATED="1657695028504" MODIFIED="1657695028504">
@@ -515,6 +496,33 @@
 <icon BUILTIN="good"/>
 </node>
 </node>
+<node TEXT="яблочный спас" ID="ID_809957600" CREATED="1657705903704" MODIFIED="1657705907582">
+<icon BUILTIN="present"/>
+<node TEXT="summer" ID="ID_1449970428" CREATED="1657705908097" MODIFIED="1657705936404">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="stays relatively long for summer (1.5 months)" ID="ID_213270048" CREATED="1657705936813" MODIFIED="1657705967206">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="hardy, healthy" ID="ID_74479247" CREATED="1657705968065" MODIFIED="1657705978205">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="crop every year" ID="ID_78758318" CREATED="1657706102478" MODIFIED="1657706107909">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="анис" ID="ID_667358042" CREATED="1657732770007" MODIFIED="1657732777434">
+<node TEXT="свердловский" ID="ID_1284425028" CREATED="1657732777701" MODIFIED="1657732834559">
+<icon BUILTIN="present"/>
+</node>
+<node TEXT="алый" ID="ID_1144572331" CREATED="1657732781962" MODIFIED="1657732834560">
+<icon BUILTIN="present"/>
+</node>
+<node TEXT="полосатый" ID="ID_37845526" CREATED="1657732783598" MODIFIED="1657732834555">
+<icon BUILTIN="present"/>
+</node>
+<node TEXT="a big family" ID="ID_638256350" CREATED="1657732838053" MODIFIED="1657732908548" LINK="https://ogorodnikam.com/derevya/plodovye/sort-yablok-anis/"/>
+</node>
 <node TEXT="Медуница" ID="ID_1351622415" CREATED="1657687204202" MODIFIED="1657687207556">
 <icon BUILTIN="bad"/>
 <icon BUILTIN="present"/>
@@ -540,7 +548,7 @@
 <icon BUILTIN="question"/>
 </node>
 </node>
-<node TEXT="mantet" ID="ID_128323015" CREATED="1657676333232" MODIFIED="1657677784933">
+<node TEXT="мантет" ID="ID_128323015" CREATED="1657676333232" MODIFIED="1657706170791">
 <icon BUILTIN="bad"/>
 <icon BUILTIN="present"/>
 <node TEXT="old, weak" LOCALIZED_STYLE_REF="default" ID="ID_1918006520" CREATED="1657676347664" MODIFIED="1657676357132" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -652,6 +660,33 @@
 <icon BUILTIN="good"/>
 </node>
 </node>
+<node TEXT="спартан" ID="ID_142910828" CREATED="1657707082834" MODIFIED="1657707091203">
+<icon BUILTIN="present"/>
+<icon BUILTIN="bad"/>
+<node TEXT="starts fruiting 5 years after planting of 2y/o tree" ID="ID_421800762" CREATED="1657707091558" MODIFIED="1657707138524">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="sweet" ID="ID_1360627307" CREATED="1657707139732" MODIFIED="1657707142243">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="симиренко" ID="ID_761621032" CREATED="1657707915634" MODIFIED="1657707919342">
+<node TEXT="Ренет Симиренко" LOCALIZED_STYLE_REF="default" ID="ID_71943853" CREATED="1657707920630" MODIFIED="1657708036199" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="present"/>
+<node TEXT="periodicity when old" ID="ID_799566725" CREATED="1657707925050" MODIFIED="1657708019734">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="weak against fungus" ID="ID_570080740" CREATED="1657707932176" MODIFIED="1657707942428">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="tasty" ID="ID_346850518" CREATED="1657707942782" MODIFIED="1657707946730">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="long lasting crop" ID="ID_1347972144" CREATED="1657708028248" MODIFIED="1657708033185">
+<icon BUILTIN="good"/>
+</node>
+</node>
+</node>
 <node TEXT="select apples with dwarf rootstocks - their roots aren&apos;t deep" ID="ID_812751096" CREATED="1655874592119" MODIFIED="1655874594198">
 <icon BUILTIN="info_circle"/>
 </node>
@@ -718,7 +753,6 @@
     <span style="color: rgb(17, 17, 17); font-family: Arial, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none"><font color="rgb(17, 17, 17)" face="Arial, Helvetica Neue, Helvetica, Arial, sans-serif" size="16px">Амфора</font></span>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="berries don&apos;t fall" ID="ID_727332375" CREATED="1657684458256" MODIFIED="1657684464629">
 <icon BUILTIN="good"/>
