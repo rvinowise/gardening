@@ -253,6 +253,23 @@
 
 </richcontent>
 </node>
+<node ID="ID_1128933777" CREATED="1657797265835" MODIFIED="1657797384150">
+<icon BUILTIN="good"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      fine <b>honeyberry</b>: 700rub for 3yo
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="close" ID="ID_1340823108" CREATED="1656304162547" MODIFIED="1656304165700">
 <icon BUILTIN="good"/>
@@ -556,6 +573,23 @@
   <body>
     <p>
       no <b>schisandra</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_650408686" CREATED="1657797265835" MODIFIED="1657797407519">
+<icon BUILTIN="good"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      cheap <b>honeyberry</b>: 600rub for 3yo
     </p>
   </body>
 </html>
@@ -1761,6 +1795,8 @@
 </node>
 </node>
 <node TEXT="cornus_mas (kizil)" POSITION="right" ID="ID_37612986" CREATED="1657675436354" MODIFIED="1657675447060">
+<node TEXT="for buying" ID="ID_803867253" CREATED="1657800343579" MODIFIED="1657800347729">
+<icon BUILTIN="good"/>
 <node TEXT="лукьяновский" ID="ID_1093301033" CREATED="1657746985597" MODIFIED="1657785288494">
 <icon BUILTIN="present"/>
 <icon BUILTIN="good"/>
@@ -1807,6 +1843,7 @@
 </node>
 <node TEXT="bad for high water table" ID="ID_1386063584" CREATED="1657785824274" MODIFIED="1657785840036">
 <icon BUILTIN="bad"/>
+</node>
 </node>
 </node>
 <node TEXT="алеша" ID="ID_951891893" CREATED="1657786772330" MODIFIED="1657786946899">
@@ -1857,28 +1894,84 @@
 <icon BUILTIN="info_circle"/>
 </node>
 </node>
-<node TEXT="honeyberry" FOLDED="true" POSITION="right" ID="ID_325045771" CREATED="1657683871666" MODIFIED="1657683918040">
+<node TEXT="honeyberry" POSITION="right" ID="ID_325045771" CREATED="1657683871666" MODIFIED="1657683918040">
+<node TEXT="for buying" ID="ID_1590554608" CREATED="1657800318184" MODIFIED="1657800329076">
+<icon BUILTIN="good"/>
 <node TEXT="Бакчарский великан" ID="ID_1539746922" CREATED="1657683918253" MODIFIED="1657683931403">
 <icon BUILTIN="good"/>
 <icon BUILTIN="present"/>
-<node TEXT="big berries" ID="ID_731422390" CREATED="1657683925717" MODIFIED="1657683929032">
+<node TEXT="big berries: 2.5gr" ID="ID_731422390" CREATED="1657683925717" MODIFIED="1657798540877">
 <icon BUILTIN="good"/>
 </node>
-</node>
-<node TEXT="Золушка" ID="ID_77356758" CREATED="1657684060470" MODIFIED="1657684087240">
-<icon BUILTIN="good"/>
-<icon BUILTIN="present"/>
-<node TEXT="tasty" ID="ID_979629732" CREATED="1657684072229" MODIFIED="1657684076802">
+<node TEXT="tasty: 4.8" ID="ID_749177884" CREATED="1657797101974" MODIFIED="1657798563147">
 <icon BUILTIN="good"/>
 </node>
-<node TEXT="small bush" ID="ID_620114410" CREATED="1657684077072" MODIFIED="1657684082363">
+<node TEXT="berries fall down" ID="ID_608535753" CREATED="1657797087090" MODIFIED="1657797090729">
 <icon BUILTIN="bad"/>
+</node>
+<node TEXT="transportable berries" ID="ID_915570029" CREATED="1657798578879" MODIFIED="1657798587524">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="big crop: 1.7-2.5kg" ID="ID_1048243874" CREATED="1657798613634" MODIFIED="1657798629135">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="best according to a chart" ID="ID_1246644632" CREATED="1657797769789" MODIFIED="1657797779419">
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="Нимфа" ID="ID_1519977445" CREATED="1657684315349" MODIFIED="1657684318103">
 <icon BUILTIN="good"/>
 <icon BUILTIN="present"/>
 <node TEXT="big berries" ID="ID_776405753" CREATED="1657684318480" MODIFIED="1657684326603">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="tasty: 4.7-.8" ID="ID_386851871" CREATED="1657798147546" MODIFIED="1657799939180">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="big crop: 1.3-2.0kg" ID="ID_628265013" CREATED="1657798189264" MODIFIED="1657798201260">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="berries don&apos;t fall much" ID="ID_1765945410" CREATED="1657798204373" MODIFIED="1657798232720">
+<icon BUILTIN="good"/>
+</node>
+</node>
+</node>
+<node TEXT="колокольчик" ID="ID_854749456" CREATED="1657799531418" MODIFIED="1657799537828">
+<icon BUILTIN="good"/>
+<icon BUILTIN="present"/>
+<node TEXT="big crop: 2kg" ID="ID_578184736" CREATED="1657799538608" MODIFIED="1657800075401">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="big berries" ID="ID_126140859" CREATED="1657799542788" MODIFIED="1657799545908">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="berries don&apos;t fall down" ID="ID_1544743574" CREATED="1657799546144" MODIFIED="1657799551978">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="роксана" ID="ID_952301237" CREATED="1657746738782" MODIFIED="1657798034992">
+<icon BUILTIN="present"/>
+<icon BUILTIN="good"/>
+<node TEXT="big crop: 3.5kg" ID="ID_991063683" CREATED="1657746747372" MODIFIED="1657798058228">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="big berries: 1.3gr" ID="ID_1528351395" CREATED="1657746747376" MODIFIED="1657798919390">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="taste: 4.2 ?" ID="ID_1179289090" CREATED="1657746747379" MODIFIED="1657799136111">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="tolerates shade" ID="ID_1478531771" CREATED="1657746747382" MODIFIED="1657754330633">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="восторг" ID="ID_600009190" CREATED="1657685472968" MODIFIED="1657685482790">
+<icon BUILTIN="good"/>
+<icon BUILTIN="present"/>
+<node TEXT="berries don&apos;t fall" ID="ID_910466454" CREATED="1657685483339" MODIFIED="1657685494167">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="tasty" ID="ID_1517732517" CREATED="1657685491024" MODIFIED="1657685494167">
 <icon BUILTIN="good"/>
 </node>
 </node>
@@ -1899,20 +1992,36 @@
 <node TEXT="berries don&apos;t fall" ID="ID_727332375" CREATED="1657684458256" MODIFIED="1657684464629">
 <icon BUILTIN="good"/>
 </node>
+<node TEXT="big berries: 1.2-.5gr" ID="ID_1939379845" CREATED="1657797840534" MODIFIED="1657797850402">
+<icon BUILTIN="good"/>
 </node>
-<node TEXT="восторг" ID="ID_600009190" CREATED="1657685472968" MODIFIED="1657685482790">
+<node TEXT="taste: 4.5" ID="ID_463321366" CREATED="1657797866081" MODIFIED="1657797869668"/>
+<node TEXT="may be small crop" ID="ID_594248372" CREATED="1657799860364" MODIFIED="1657799868395">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="Золушка" ID="ID_77356758" CREATED="1657684060470" MODIFIED="1657684087240">
 <icon BUILTIN="good"/>
 <icon BUILTIN="present"/>
-<node TEXT="berries don&apos;t fall" ID="ID_910466454" CREATED="1657685483339" MODIFIED="1657685494167">
+<node TEXT="tasty" ID="ID_979629732" CREATED="1657684072229" MODIFIED="1657684076802">
 <icon BUILTIN="good"/>
 </node>
-<node TEXT="tasty" ID="ID_1517732517" CREATED="1657685491024" MODIFIED="1657685494167">
-<icon BUILTIN="good"/>
+<node TEXT="small bush" ID="ID_620114410" CREATED="1657684077072" MODIFIED="1657684082363">
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="московская 23" ID="ID_606273188" CREATED="1657746705055" MODIFIED="1657746707955">
 <icon BUILTIN="present"/>
 <node TEXT="weak berries" ID="ID_965555841" CREATED="1657746713729" MODIFIED="1657754330479">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="old" ID="ID_112411188" CREATED="1657796937139" MODIFIED="1657796939005">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="berries don&apos;t fall down" ID="ID_565986592" CREATED="1657797028313" MODIFIED="1657797039510">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="small berries" ID="ID_1737277746" CREATED="1657797058595" MODIFIED="1657797062501">
 <icon BUILTIN="bad"/>
 </node>
 </node>
@@ -1922,21 +2031,6 @@
 <icon BUILTIN="good"/>
 </node>
 <node TEXT="big crop (3kg)" ID="ID_436021651" CREATED="1657746728484" MODIFIED="1657754330538">
-<icon BUILTIN="good"/>
-</node>
-</node>
-<node TEXT="роксана" ID="ID_952301237" CREATED="1657746738782" MODIFIED="1657746748866">
-<icon BUILTIN="present"/>
-<node TEXT="big crop(3.5)" ID="ID_991063683" CREATED="1657746747372" MODIFIED="1657754330586">
-<icon BUILTIN="good"/>
-</node>
-<node TEXT="big berries" ID="ID_1528351395" CREATED="1657746747376" MODIFIED="1657754325017">
-<icon BUILTIN="good"/>
-</node>
-<node TEXT="tasty" ID="ID_1179289090" CREATED="1657746747379" MODIFIED="1657754330601">
-<icon BUILTIN="good"/>
-</node>
-<node TEXT="tolerates shade" ID="ID_1478531771" CREATED="1657746747382" MODIFIED="1657754330633">
 <icon BUILTIN="good"/>
 </node>
 </node>
@@ -1956,6 +2050,31 @@
 </node>
 <node TEXT="crop 1.8-2.8 kg" ID="ID_869657915" CREATED="1657754754142" MODIFIED="1657754762598"/>
 <node TEXT="big berries? : 1.5 gr" ID="ID_359013573" CREATED="1657754762849" MODIFIED="1657754775424"/>
+</node>
+<node TEXT="синяя птица" ID="ID_967623339" CREATED="1657796944854" MODIFIED="1657796950547">
+<icon BUILTIN="present"/>
+<node TEXT="old" ID="ID_423848952" CREATED="1657796951379" MODIFIED="1657796953323">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="small berries" ID="ID_482684921" CREATED="1657796972938" MODIFIED="1657796978033">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="average crop" ID="ID_1005132160" CREATED="1657798413398" MODIFIED="1657798418426">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="hardy" ID="ID_822097634" CREATED="1657798371020" MODIFIED="1657798374744">
+<icon BUILTIN="good"/>
+<node TEXT="against cold and pests" ID="ID_1314243078" CREATED="1657798375640" MODIFIED="1657798382728"/>
+</node>
+</node>
+<node TEXT="длинноплодная" ID="ID_241612971" CREATED="1657796994771" MODIFIED="1657797005060">
+<icon BUILTIN="present"/>
+<node TEXT="big berries" ID="ID_752206040" CREATED="1657796997092" MODIFIED="1657798765691">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="comparison" ID="ID_877867580" CREATED="1657796774893" MODIFIED="1657796788078" LINK="https://www.expertcen.ru/article/ratings/luchshaya-zhimolost-sad.html#c3999">
+<icon BUILTIN="book_open"/>
 </node>
 </node>
 <node TEXT="gooseberry" FOLDED="true" POSITION="right" ID="ID_79147000" CREATED="1657689841738" MODIFIED="1657689846559">
@@ -2095,6 +2214,8 @@
 </node>
 </node>
 <node TEXT="aronium" POSITION="right" ID="ID_1884862703" CREATED="1657792029102" MODIFIED="1657792035203">
+<node TEXT="for buying" ID="ID_1915323453" CREATED="1657800371266" MODIFIED="1657800374487">
+<icon BUILTIN="good"/>
 <node TEXT="мулатка" ID="ID_989597719" CREATED="1657794535865" MODIFIED="1657794590410">
 <icon BUILTIN="present"/>
 <icon BUILTIN="good"/>
@@ -2127,6 +2248,7 @@
 </node>
 <node TEXT="needs 20cm of drainage (with high water table)" ID="ID_954600849" CREATED="1657792275476" MODIFIED="1657792333171" LINK="https://grand-poliv.ru/info/articles/ozelenenie/aroniya-vidy-i-sorta/">
 <icon BUILTIN="info_circle"/>
+</node>
 </node>
 </node>
 <node TEXT="викинг" ID="ID_521838130" CREATED="1657792036724" MODIFIED="1657794447242">
