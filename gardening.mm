@@ -151,5 +151,18 @@
 <node TEXT="companion planting" ID="ID_778310016" CREATED="1651521585903" MODIFIED="1656853713231" LINK="companion%20planting/companion%20planting.mm"/>
 </node>
 <node TEXT="soil type" POSITION="right" ID="ID_1481777238" CREATED="1651567069781" MODIFIED="1656850047815" LINK="soil%20type.mm"/>
+<node TEXT="time of crop" POSITION="right" ID="ID_55441046" CREATED="1658044005842" MODIFIED="1658044018214">
+<node TEXT="" ID="ID_522010677" CREATED="1658044019214" MODIFIED="1658044019214"/>
+</node>
+<node TEXT="crop results" POSITION="right" ID="ID_225126937" CREATED="1658048160302" MODIFIED="1658048275736" LINK="crop%20results/">
+<node TEXT="crop_result" ID="ID_518076163" CREATED="1658048186756" MODIFIED="1658048255406" LINK="crop_results/crop_result.mm"/>
+<node TEXT="time of crop" ID="ID_1572400562" CREATED="1658048237419" MODIFIED="1658048316334" LINK="file:/C:/prj/gardening/crop%20results/time%20of%20crop.mm"/>
+</node>
+<node TEXT="shops" POSITION="right" ID="ID_1331062674" CREATED="1658051360818" MODIFIED="1658051364981" LINK="shops/">
+<node TEXT="shops" ID="ID_781474441" CREATED="1658051370744" MODIFIED="1658051375625" LINK="shops/shops.mm"/>
+</node>
+<node TEXT="plant data" POSITION="right" ID="ID_581713413" CREATED="1658051700755" MODIFIED="1658051700755" LINK="plant%20data/">
+<node TEXT="plant data" ID="ID_216028345" CREATED="1658051703708" MODIFIED="1658051710056" LINK="file:/C:/prj/gardening/plant%20data/plant%20data.mm"/>
+</node>
 </node>
 </map>

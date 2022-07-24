@@ -1,0 +1,10 @@
+#spinach
+
+-hasn't grown anywhere
+
+
+#daikon
+##the simplest one (plain packet)
++good crop
+##mammonth trunc
+-no roots (bolted because of heat?)

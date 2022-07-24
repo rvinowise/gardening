@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="shops" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1655863138889"><hook NAME="MapStyle" zoom="1.577">
+<node TEXT="shops" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1655863138889"><hook NAME="MapStyle" zoom="1.217">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -142,7 +142,7 @@
 <node TEXT="icons" ID="ID_143750967" CREATED="1632698164973" MODIFIED="1632698166792"/>
 <node TEXT="abbreviations" ID="ID_57577033" CREATED="1632698169568" MODIFIED="1632698172983"/>
 </node>
-<node TEXT="plants" POSITION="right" ID="ID_321339130" CREATED="1655863143069" MODIFIED="1655863729683">
+<node TEXT="shops" POSITION="right" ID="ID_321339130" CREATED="1655863143069" MODIFIED="1658054099280">
 <node TEXT="no site" ID="ID_1167241973" CREATED="1656222623582" MODIFIED="1656222637098">
 <icon BUILTIN="bad"/>
 <node TEXT="https://yandex.ru/maps/org/yakovlevskiy_plodovy_sad/48091936434/?ll=37.460400%2C54.623764&amp;z=9" ID="ID_1764765541" CREATED="1655863922149" MODIFIED="1655863927568" LINK="https://yandex.ru/maps/org/yakovlevskiy_plodovy_sad/48091936434/?ll=37.460400%2C54.623764&amp;z=9">
@@ -176,7 +176,7 @@
 </node>
 </node>
 </node>
-<node TEXT="by distance (close -&gt; far)" ID="ID_230918464" CREATED="1656222646907" MODIFIED="1656222676252">
+<node TEXT="by distance (close -&gt; far)" FOLDED="true" ID="ID_230918464" CREATED="1656222646907" MODIFIED="1656222676252">
 <node TEXT="https://www.garantsad.ru/plodovye-kustarniki/sazhency-zhimolost-sedobnaya/sazhency-zhimolost-plodovaya-amfora.html" ID="ID_37674065" CREATED="1656304151777" MODIFIED="1657803722492" LINK="https://www.garantsad.ru/plodovye-kustarniki/sazhency-zhimolost-sedobnaya/sazhency-zhimolost-plodovaya-amfora.html">
 <icon BUILTIN="good"/>
 <node TEXT="гарант-сад" ID="ID_742859957" CREATED="1657773605661" MODIFIED="1657773612619">
@@ -711,7 +711,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1068,18 +1067,6 @@
 <icon BUILTIN="bad"/>
 </node>
 </node>
-<node TEXT="Черный бриллиант" ID="ID_1400013544" CREATED="1657807937197" MODIFIED="1657807942333">
-<icon BUILTIN="present"/>
-<node TEXT="tasty: 4.9" ID="ID_538421700" CREATED="1657807943198" MODIFIED="1657809251383">
-<icon BUILTIN="good"/>
-</node>
-<node TEXT="unusual black color" ID="ID_488353424" CREATED="1657809255083" MODIFIED="1657809263738">
-<icon BUILTIN="good"/>
-</node>
-<node TEXT="grows well only in tibet" ID="ID_1734774957" CREATED="1657809547836" MODIFIED="1657809561196">
-<icon BUILTIN="bad"/>
-</node>
-</node>
 <node TEXT="виктор" ID="ID_157382433" CREATED="1657809391388" MODIFIED="1657809398743">
 <icon BUILTIN="present"/>
 <node TEXT="tasty: 4.8" ID="ID_982321558" CREATED="1657809399097" MODIFIED="1657809404545">
@@ -1138,6 +1125,35 @@
 <icon BUILTIN="present"/>
 <node TEXT="tasty: 4.65-.78" ID="ID_588283980" CREATED="1657813398994" MODIFIED="1657813426373">
 <icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="Московское ожерелье (кол)" ID="ID_151744236" CREATED="1658054143787" MODIFIED="1658054170706">
+<icon BUILTIN="present"/>
+<node TEXT="winter" ID="ID_771114663" CREATED="1658054147118" MODIFIED="1658054215650">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="high yield" ID="ID_1630295050" CREATED="1658054217756" MODIFIED="1658054223907">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="президент(кол)" ID="ID_1806849560" CREATED="1658054265256" MODIFIED="1658054277580">
+<icon BUILTIN="present"/>
+<node TEXT="hardy against cold and diseases" ID="ID_1483593427" CREATED="1658054273618" MODIFIED="1658054297976">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="summer" ID="ID_27044123" CREATED="1658054304133" MODIFIED="1658054306096"/>
+</node>
+<node TEXT="Черный бриллиант" ID="ID_1400013544" CREATED="1657807937197" MODIFIED="1658054130496">
+<icon BUILTIN="present"/>
+<icon BUILTIN="bad"/>
+<node TEXT="tasty: 4.9" ID="ID_538421700" CREATED="1657807943198" MODIFIED="1657809251383">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="unusual black color" ID="ID_488353424" CREATED="1657809255083" MODIFIED="1657809263738">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="grows well only in tibet" ID="ID_1734774957" CREATED="1657809547836" MODIFIED="1657809561196">
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="белорусское сладкое" ID="ID_1276131074" CREATED="1657834353278" MODIFIED="1657835899196">
